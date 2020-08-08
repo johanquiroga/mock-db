@@ -2,17 +2,17 @@
   "jobs": [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "Job Post 1",
       "description": "Do pariatur consequat commodo enim. Commodo ullamco incididunt Lorem qui excepteur sunt. Mollit cillum cillum excepteur sit enim reprehenderit ea consequat non culpa ea mollit et."
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Job Post 2",
       "description": "Minim sunt consectetur ea culpa tempor consequat anim velit id ex ut non cupidatat consequat. Quis quis ut aute sunt commodo minim voluptate qui laborum. Commodo aute sit officia et culpa elit ullamco cillum deserunt quis. Elit do exercitation et irure eiusmod id proident dolor ut amet cupidatat ea culpa."
     },
     {
       "id": 3,
-      "title": "Post 3",
+      "title": "Job Post 3",
       "description": "Ipsum non culpa quis veniam ad sint duis tempor sit elit. Quis culpa laborum eu dolore consequat. Id culpa tempor consequat fugiat mollit ex ex sint duis mollit cillum ut elit mollit. Ad amet aliqua eu ea."
     }
   ]
