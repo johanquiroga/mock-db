@@ -24,6 +24,11 @@
       "id": 5,
       "title": "Job Post 5",
       "description": "Ullamco ea excepteur ullamco ut ex duis nulla. Qui officia aliquip excepteur non. Laboris eu mollit reprehenderit sint nulla minim commodo esse reprehenderit ipsum."
+    },
+    {
+      "id": 6,
+      "title": "Job Post 6",
+      "description": "Ullamco ea excepteur ullamco ut ex duis nulla. Qui officia aliquip excepteur non. Laboris eu mollit reprehenderit sint nulla minim commodo esse reprehenderit ipsum."
     }
   ]
 }
